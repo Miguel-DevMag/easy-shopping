@@ -102,6 +102,8 @@ img {
     .container-left button {
         margin: 15px auto;
         display: block;
+        padding: 15px 40px;
+        font-size: 20px;
     }
     .container-right {
         width: 100%;
