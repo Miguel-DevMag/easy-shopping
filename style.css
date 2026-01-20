@@ -80,6 +80,10 @@ img {
     background-color: #7a7e8d;
 }
 @media screen and (max-width:900px) {
+
+    .navegacao a {
+        display:none;
+    }
     .container {
         display: block;
         margin: 80px auto 0px auto;
