@@ -16,7 +16,7 @@ body {
 }
 .container-left {
     width: 60%;
-    margin-left: 40px;
+    margin-left: 150px;
 }
 
 .container-right {
@@ -53,13 +53,13 @@ img {
 }
 
 .container-left h1 {
-    width: 300px;
-    font-size:40px;
+    width: 350px;
+    font-size:50px;
     font-weight:500;
     color: #333;
 }
 .container-left p {
-    width: 480px;
+    width: 600px;
     font-size: 20px;
     font-weight: 400;
     line-height: 1.2;
@@ -70,15 +70,17 @@ img {
     border: none;
     outline: none;
     background-color: #A0A7C5;
-    padding: 10px 30px;
+    padding: 15px 30px;
     color: #fff;
     border-radius: 15px;
+    font-size: 20px;
     font-weight: 600;
     cursor: pointer;
 }
 .container-left button:hover {
     background-color: #7a7e8d;
 }
+
 @media screen and (max-width:900px) {
 
     .navegacao a {
@@ -90,10 +92,13 @@ img {
     }
     .container-left  {
         width: 80%;
+        margin: 0 auto;
     }
     .container-left h1 {
         margin: 0 auto;
         text-align: center;
+        font-size: 29px;
+        width: 80%;
     }
     .container-left p {
         margin: 0 auto;
