@@ -57,4 +57,4 @@ Este projeto foi construído com as seguintes ferramentas:
 
   ## Hospedagem do Site
 
-  Clique Aqui [ https://easy-shoppin.netlify.app/ ]
+  Clique Aqui [ https://miguel-devmag.github.io/easy-shopping/ ]
